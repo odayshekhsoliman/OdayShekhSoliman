@@ -19,6 +19,6 @@ Information Technology Engineering student specializing in Artificial Intelligen
   RESTful service handling database queries, authentication, and CRUD operations.
 
 ### Contact & Links
-- Email: [Your Email Address]
+- Email: odayshekhsoliman@gmail.com
 - LinkedIn: [Your LinkedIn Profile URL]
-- Codeforces: [Your Codeforces Profile URL]
+- Codeforces: https://codeforces.com/profile/od.soliman2
