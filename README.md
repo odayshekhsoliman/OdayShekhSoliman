@@ -20,5 +20,5 @@ Information Technology Engineering student specializing in Artificial Intelligen
 
 ### Contact & Links
 - Email: odayshekhsoliman@gmail.com
-- LinkedIn: [Your LinkedIn Profile URL]
+- LinkedIn: www.linkedin.com/in/oday-shekh-soliman-a8a39a426
 - Codeforces: https://codeforces.com/profile/od.soliman2
